@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Privacy Policy</h1>
+    <p>Effective Date: [Date]</p>
+
+    <p>Welcome to [Your App Name]. We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share your information when you use our platform. By using our services, you agree to the terms of this Privacy Policy.</p>
+
+    <h2>1. Information We Collect</h2>
+    <p>We collect the following types of information:</p>
+    <ul>
+        <li><strong>Personal Information:</strong> This includes information such as your name, email address, phone number, and other contact details you provide when creating an account or using our services.</li>
+        <li><strong>Profile Data:</strong> We collect information related to your professional profile, such as your job history, education, certifications, and skills. If you choose to import your LinkedIn or Google profile using OAuth, we may collect your profile data as permitted by these services’ APIs.</li>
+        <li><strong>OAuth Data:</strong> When you connect your LinkedIn or Google account through OAuth, we may access basic information such as your name, email address, profile picture, and any other data you authorize us to access.</li>
+        <li><strong>Usage Data:</strong> We collect data on how you use our platform, such as pages visited, interactions, and preferences.</li>
+        <li><strong>Device Information:</strong> We may collect information about the device you use to access our services, including device type, operating system, and browser type.</li>
+    </ul>
+
+    <h2>2. Use of Information</h2>
+    <p>We use the information collected for the following purposes:</p>
+    <ul>
+        <li>To provide and improve our services.</li>
+        <li>To personalize your experience on our platform.</li>
+        <li>To connect recruiters and talents in a professional network.</li>
+        <li>To import your LinkedIn or Google profile, when you authorize it via OAuth.</li>
+        <li>To communicate with you, including sending notifications and updates about our services.</li>
+        <li>To ensure compliance with applicable laws and regulations.</li>
+        <li>To protect against fraud, unauthorized activities, and illegal activities.</li>
+    </ul>
+
+    <h2>3. LinkedIn and Google OAuth Login</h2>
+    <p>If you choose to connect your LinkedIn or Google account using OAuth 2.0, we will request permission to access certain information from your respective profile. This may include your name, profile picture, email address, job title, education, certifications, and other professional information.</p>
+
+    <p><strong>How We Use Your OAuth Data:</strong></p>
+    <ul>
+        <li>Your LinkedIn or Google data will be used solely for the purpose of populating your profile on our platform, making it easier for you to connect with recruiters and present your professional credentials.</li>
+        <li>We will not store or use your LinkedIn or Google login credentials.</li>
+        <li>You have control over the data shared and can disconnect your LinkedIn or Google account at any time.</li>
+    </ul>
+
+    <h2>4. Data Sharing and Disclosure</h2>
+    <p>We do not sell or share your personal information with third parties for their marketing purposes. We may share your information with:</p>
+    <ul>
+        <li>Service providers who help us operate our platform and services.</li>
+        <li>Legal authorities, if required by law or to protect our rights.</li>
+        <li>Recruiters or other users, with your consent, as part of our talent-recruiter matching services.</li>
+    </ul>
+
+    <h2>5. Data Security</h2>
+    <p>We implement industry-standard security measures to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no system is completely secure, and we cannot guarantee the absolute security of your data.</p>
+
+    <h2>6. Your Rights and Choices</h2>
+    <p>You have the right to:</p>
+    <ul>
+        <li>Access, update, or delete your personal information.</li>
+        <li>Opt-out of receiving marketing communications.</li>
+        <li>Disconnect your LinkedIn or Google account from our platform.</li>
+    </ul>
+
+    <h2>7. Cookies and Tracking Technologies</h2>
+    <p>We use cookies and other tracking technologies to collect information about your interactions with our platform, improve user experience, and personalize content. You can adjust your browser settings to reject cookies, but this may impact the functionality of our services.</p>
+
+    <h2>8. Changes to this Privacy Policy</h2>
+    <p>We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage you to review this Privacy Policy regularly.</p>
+
+    <h2>9. Contact Us</h2>
+    <p>If you have any questions or concerns about this Privacy Policy, please contact us at [Your Contact Information].</p>
+
+</body>
+</html>
